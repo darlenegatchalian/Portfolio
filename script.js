@@ -414,19 +414,19 @@ const PROJECT_FILES = {
             mode: "mobile"
         },
         {
-           src: "Projects/Iparam/IParamLogin.png",
+           src: "Projects/Iparam/IparamLogin.png",
             title: "IParam — Login",
             type: "image",
             mode: "mobile"
         },
         {
-            src: "Projects/Iparam/IParamReserve.png",
+            src: "Projects/Iparam/IparamReserve.png",
             title: "IParam — Reserve",                
             type: "image",
             mode: "mobile"
         },
         {
-            src: "Projects/Iparam/IParamProfile.png",
+            src: "Projects/Iparam/IparamProfile.png",
             title: "IParam — Profile",
             type: "image",
             mode: "mobile"
